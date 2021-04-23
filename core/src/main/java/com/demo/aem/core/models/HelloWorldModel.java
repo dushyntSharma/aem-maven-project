@@ -15,7 +15,6 @@
  */
 package com.demo.aem.core.models;
 
-import javax.annotation.PostConstruct;
 import javax.inject.Inject;
 import javax.inject.Named;
 
@@ -35,7 +34,7 @@ public class HelloWorldModel {
 
     private String message;
 
-    @PostConstruct
+ 
     protected void init() {
         message = "\tHello World!\n";
         message += "\tThis is instance: " + settings.getSlingId() + "\n";
