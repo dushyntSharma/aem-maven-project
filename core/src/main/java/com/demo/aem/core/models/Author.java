@@ -6,5 +6,6 @@ public interface Author {
 	String getLastName();
 
 	boolean getIsProfessor();
+	//commented
 
 }
