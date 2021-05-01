@@ -58,4 +58,8 @@ The project comes with the auto-public repository configured. To setup the repos
     http://helpx.adobe.com/experience-manager/kb/SetUpTheAdobeMavenRepository.html
 
 
+<<<<<<< HEAD
 //master brach edieting
+=======
+//merging to obtinfgthe condflict
+>>>>>>> deploy
